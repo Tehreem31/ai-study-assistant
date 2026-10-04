@@ -1,6 +1,6 @@
-# 🤖 AI Study Assistant
+#  AI Study Assistant
 
-## 📌 Overview
+##  Overview
 An interactive AI-powered conversational chatbot built for tech students and developers to learn Python and Machine Learning concepts.
 
 - **Track:** AI/ML
@@ -8,7 +8,7 @@ An interactive AI-powered conversational chatbot built for tech students and dev
 
 ---
 
-## ✨ Features
+##  Features
 - **Intelligent Q&A:** Context-aware responses powered by Google Gemini API.
 - **Prompt Engineering:** Tailored persona as a supportive AI/ML tutor.
 - **Conversation History:** Retains session memory across multiple conversation turns.
@@ -16,7 +16,7 @@ An interactive AI-powered conversational chatbot built for tech students and dev
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Language:** Python
 - **LLM/API:** Google Gemini API (`gemini-2.5-flash`)
 - **Frontend Framework:** Streamlit
