@@ -24,7 +24,7 @@ An interactive AI-powered conversational chatbot built for tech students and dev
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repository:**
    ```bash
